@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/helia abedini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helia abedini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/helia abedini" target="blank"><img align="center" src="https://www.artstation.com/assets/about/logo/logo-artstation-vertical-ec60efc77a6d4b7aa4b177d65b5726766b4e6ad194c90bbb588ecb65e481dd01.png" height="30" width="40" /></a>
 <a href="https://abedini81.artstation.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ArtStation.svg" alt="heliaabedini" height="30" width="40" /></a>
 </p>
 <a href="https://kaggle.com/heliaabedini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="heliaabedini" height="30" width="40" /></a>
