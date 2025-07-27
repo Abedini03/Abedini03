@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abedini</h1>
-<h3 align="center">A passionate AI & Game developer from Iran</h3>
+<h3 align="center">An AI enthusiast exploring applications in medical imaging and cancer research</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abedini81&label=Profile%20views&color=0e75b6&style=flat" alt="abedini81" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning concepts.**
+- 🔭 I’m currently working on **AI-based research in medical imaging, focusing on cancer detection and analysis.**
 
-- 🌱 I’m currently learning **TensorFlow, PyTorch, OpenCV, and Quantum Computing.**
+- 🧠 Passionate about **machine learning, deep learning, and their applications in healthcare.**
+
+- 🌱 I’m exploring TensorFlow, PyTorch, OpenCV, and learning about different types of medical imaging data and their use in AI research.
 
 - 👯 I’m looking to collaborate on **AI & ML research.**
 
