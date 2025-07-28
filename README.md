@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abedini</h1>
-<h3 align="center">An AI enthusiast exploring applications in medical imaging and cancer research</h3>
+<h3 align="center">An AI enthusiast working on research-driven projects and creative development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abedini81&label=Profile%20views&color=0e75b6&style=flat" alt="abedini81" /> </p>
 
 - 🔭 I’m currently working on **AI-based research in medical imaging, focusing on cancer detection and analysis.**
 
-- 🧠 Passionate about **machine learning, deep learning, and their applications in healthcare.**
+- 🧠 Passionate about **Machine Learning, Deep Learning, and Computer Vision.**
 
 - 🌱 I’m exploring TensorFlow, PyTorch, OpenCV, and learning about different types of medical imaging data and their use in AI research.
 
-- 👯 I’m looking to collaborate on **AI & ML research.**
+- 👯 I’m looking to collaborate on **AI & ML projects.**
 
 - 👨‍💻 All of my Game/3D Design projects are available at [https://abedini81.artstation.com/](https://abedini81.artstation.com/)
 
