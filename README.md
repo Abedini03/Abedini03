@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abedini</h1>
-<h3 align="center">An AI enthusiast working on research-driven projects and creative development</h3>
+<h1 align="center">Hi 👋, I'm Helia</h1>
+<h3 align="center">Passionate about AI, research & creative tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abedini81&label=Profile%20views&color=0e75b6&style=flat" alt="abedini81" /> </p>
 
