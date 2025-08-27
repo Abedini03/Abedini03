@@ -1,4 +1,9 @@
-- 🔭 currently working on **AI-based research in medical imaging, focusing on cancer detection and analysis.**
+<h1 align="center">Hi 👋, I'm Helia</h1>
+<h3 align="center">Passionate about AI, research & creative tech</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abedini81&label=Profile%20views&color=0e75b6&style=flat" alt="abedini81" /> </p>
+
+- 🔭 I’m currently working on **AI-based research in medical imaging, focusing on cancer detection and analysis.**
 
 - 🧠 Passionate about **Machine Learning, Deep Learning, and Computer Vision.**
 
@@ -8,6 +13,13 @@
 
 - 👨‍💻 All of my Game/3D Design projects are available at [https://abedini81.artstation.com/](https://abedini81.artstation.com/)
 
+- 📫 How to reach me **abedinia054@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/heliaabedini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helia abedini" height="30" width="40" /></a>
+<a href="https://kaggle.com/heliaabedini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="heliaabedini" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
