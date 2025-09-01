@@ -9,7 +9,7 @@
 
 - 🌱 I’m exploring TensorFlow, PyTorch, OpenCV, and learning about different types of medical imaging data and their use in AI research.
 
-- 👯 I’m looking to collaborate on **AI & ML projects.**
+- 👯 I’m looking to collaborate on **AI, ML, and HCI projects.**
 
 - 👨‍💻 All of my Game/3D Design projects are available at [https://abedini81.artstation.com/](https://abedini81.artstation.com/)
 
