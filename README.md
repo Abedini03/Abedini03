@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Helia</h1>
 <h3 align="center">Passionate about AI, research & creative tech</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abedini81&label=Profile%20views&color=0e75b6&style=flat" alt="abedini81" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abedini03&label=Profile%20views&color=0e75b6&style=flat" alt="Abedini03" /> </p>
 
 - 🔭 I’m currently working on **AI-based research in medical imaging, focusing on cancer detection and analysis.**
 
@@ -65,5 +65,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abedini81&show_icons=true&locale=en&layout=compact" alt="abedini81" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abedini03&show_icons=true&locale=en&layout=compact" alt="Abedini03" />
 </p>
