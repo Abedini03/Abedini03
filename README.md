@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **AI, ML, and HCI projects.**
 
-- 👨‍💻 All of my Game/3D Design projects are available at [https://abedini81.artstation.com/](https://abedini81.artstation.com/)
-
 - 📫 How to reach me **abedinia054@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
