@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Helia</h1>
 <h3 align="center">Passionate about AI, research & creative tech</h3>
 
-[![Rotating Brain]([[https://i.imgur.com/8pN7KjT.gif](https://upload.wikimedia.org/wikipedia/commons/5/54/Frontal_lobe_animation.gif))]([https://your-website.com](https://upload.wikimedia.org/wikipedia/commons/5/54/Frontal_lobe_animation.gif](https://commons.wikimedia.org/wiki/File:Frontal_lobe_animation.gif)))
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abedini03&label=Profile%20views&color=0e75b6&style=flat" alt="Abedini03" /> </p>
 
 - 🔭 I’m currently working on **AI-based research in medical imaging, focusing on cancer detection and analysis.**
