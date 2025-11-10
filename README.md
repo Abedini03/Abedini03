@@ -9,7 +9,7 @@
 
 - 🌱 I’m exploring TensorFlow, PyTorch, OpenCV, and learning about different types of medical imaging data and their use in AI research.
 
-- 👯 I’m looking to collaborate on **AI, ML, and HCI projects.**
+- 👯 I’m looking to collaborate on **AI, ML, Robotics, and HCI projects.**
 
 - 📫 How to reach me **abedinia054@gmail.com**
 
