@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-based research in medical imaging, focusing on cancer detection and analysis.<br><br>🧠 Passionate about Machine Learning, Deep Learning, and Computer Vision.<br><br>🌱 I’m exploring TensorFlow, PyTorch, OpenCV, and learning about different types of medical imaging data and their use in AI research.<br><br>👯 I’m looking to collaborate on AI, ML, Robotics, and HCI projects.
+🔭 I’m currently working on AI-based research in radiogenomics, focusing on cancer detection and analysis.<br><br>🧠 Passionate about Machine Learning, Deep Learning, and Computer Vision.<br><br>🌱 I’m exploring TensorFlow, PyTorch, OpenCV, and learning about different types of biomedical data and their use in AI research.<br><br>👯 I’m looking to collaborate on AI, ML, Robotics, and HCI projects.
 
  
 ## 🌐 Socials:
