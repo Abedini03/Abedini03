@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-based research in radiogenomics, focusing on cancer detection, medical image processing, and gene mutations.<br><br>🧠 Passionate about Machine Learning, Deep Learning, Computer Vision.<br><br>🌱 I’m exploring different types of imaging and genomics data and their use in AI research.
+🔭 I am currently working on AI-based research in healthcare applications, particularly for the diagnosis and prognosis of cancer and neurodegenerative diseases.<br><br>🧠 Passionate about Machine Learning, Deep Learning, Computer Vision.
 
  
 ## 🌐 Socials:
