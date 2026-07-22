@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ascii-art (1).png" width="80" height="80" style="border-radius: 50%;">
+  <img src="ascii-art (1).png" width="50%" alt="Banner">
 </p>
 
 # 💫 About Me:
