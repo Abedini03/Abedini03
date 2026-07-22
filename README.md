@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ascii-art (1).png" width="100%" alt="Banner">
+</p>
+
 # 💫 About Me:
 🔭 I am currently working on AI-based research in healthcare applications, particularly for the diagnosis and prognosis of cancer and neurodegenerative diseases.<br><br>🧠 Passionate about Machine Learning, Deep Learning, Computer Vision.
 
